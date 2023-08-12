@@ -20,7 +20,8 @@ This comprehensive repository houses the backbone of the revolutionary CodePlay 
 
 **6. Financial Insights** : CodePlay empowers instructors with a transparent financial overview. The platform displays real-time data on course sales, student enrollment, and income earned. This invaluable information assists instructors in refining their teaching strategies and creating content that resonates with their audience.
 
-## Technologies Used+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+## Technologies Used
+
 The CodePlay is built using the following technologies:
 
 #### React JS, Tailwind
