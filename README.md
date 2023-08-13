@@ -4,7 +4,7 @@ Welcome to the CodePlay EdTech Platform Repository!
 
 This comprehensive repository houses the backbone of the revolutionary CodePlay EdTech platform – a dynamic and feature-rich MERN stack application that is set to reshape the landscape of online education. With a seamless blend of technology and education, CodePlay empowers both instructors and students, fostering a vibrant learning community.
 
-* Project Link :- 
+* Project Link :- https://codeplay-edtech-project.vercel.app/
 
 ## Features
 
