@@ -39,4 +39,4 @@ The CodePlay was created by Pranjal Mishra. Special thanks to Love Babbar Bhaiya
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, please feel free to contact Email - PranjalMishraContact@gmail.com.    
+If you have any questions or suggestions regarding this project, please feel free to contact Email - yashneet6@gmail.com.    
